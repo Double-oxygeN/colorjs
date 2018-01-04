@@ -15,4 +15,4 @@ JavaScript Color Library
 This project is licensed under the Apache License, version 2.0  
 See ./LICENSE
 
-Copyright ©︎ 2018 Double_oxygeN
+Copyright (c) 2018 Double_oxygeN
