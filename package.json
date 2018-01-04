@@ -1,0 +1,22 @@
+{
+  "name": "Color",
+  "version": "0.0.1",
+  "description": "JavaScript color library",
+  "main": "color-all.js",
+  "scripts": {
+    "docs": "documentation build src/** -f html -o docs && sed -i -e '11s/undefined/this/' docs/assets/split.js && sed -i -e '29s/undefined/this/' docs/assets/anchor.js && echo ./docs updated!"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Double-oxygeN/color.git"
+  },
+  "author": "Double_oxygeN",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Double-oxygeN/color/issues"
+  },
+  "homepage": "https://github.com/Double-oxygeN/color"
+}
